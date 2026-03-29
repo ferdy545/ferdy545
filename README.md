@@ -1,12 +1,33 @@
-## _welcome_
+# `print("Hello, world!")`
 
-![python](https://github.com/user-attachments/assets/69997517-b0d2-4d4a-a0ba-a73b7e94a686)
-![java](https://github.com/user-attachments/assets/05276972-9474-40ea-93df-2158741e0baf)
-![c](https://github.com/user-attachments/assets/aebc5e29-73ac-49a7-9520-daaa8814ee41)
-![bash](https://github.com/user-attachments/assets/13ee12a3-66f0-435e-a46a-93a9d3ca7990)
-![assembly](https://github.com/user-attachments/assets/b3c7a382-07ce-4c7d-874d-b9f6fbb37d67)
+![](https://img.shields.io/badge/NATIVE-PORTUGUÊS-rgb(0,128,0)?style=for-the-badge)
+![](https://img.shields.io/badge/SPEAK-ENGLISH-rgb(0,0,255)?style=for-the-badge)
+![](https://img.shields.io/badge/BASIC-ESPAÑOL-rgb(243,195,37)?style=for-the-badge)
+![](https://img.shields.io/badge/BASIC-日本語-rgb(200,0,0)?style=for-the-badge)
+<br>
 
+![](https://img.shields.io/badge/FERDY545-DISCORD-rgb(104,77,242)?style=for-the-badge)
+![](https://img.shields.io/badge/INTERESTED_IN-GAMEDEV-rgb(255,93,0)?style=for-the-badge)
+![](https://img.shields.io/badge/POKÉMON-SCOLIPEDE-rgb(186,40,94)?style=for-the-badge)
 
+Hello there! My name is Fernando and I'm an undergradute Computer Science student at IME-USP! Currently using GitHub mostly for coursework, but I plan on adding personal experiments at some point :3
+
+## Experience
+More or less sorted by how much I'm comfortable using them ;)
+
+### Tools & Technologies <br>
+![](https://skillicons.dev/icons?i=windows,linux,vscode,git,latex,godot,arduino,blender)
+
+### Languages <br>
+![](https://skillicons.dev/icons?i=py,html,css,cpp,c,java,js,bash,octave)
+
+### Frameworks & Libraries
+![](https://skillicons.dev/icons?i=sqlite,htmx,fastapi,django)
+
+<!---
+![](https://img.shields.io/badge/LABEL-MESSAGE-rgb(255,0,0)?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Label-Message-rgb(255,0,0))
+--->
 
 <!---
 ferdy545/ferdy545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
