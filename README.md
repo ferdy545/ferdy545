@@ -16,10 +16,10 @@ Hello there! My name is Fernando and I'm an undergradute Computer Science studen
 More or less sorted by how much I'm comfortable using them ;)
 
 ### Tools & Technologies <br>
-![](https://skillicons.dev/icons?i=windows,linux,vscode,git,latex,godot,arduino,blender)
+![](https://skillicons.dev/icons?i=windows,linux,vscode,latex,git,godot,arduino,blender)
 
 ### Languages <br>
-![](https://skillicons.dev/icons?i=py,html,css,cpp,c,java,js,bash,octave)
+![](https://skillicons.dev/icons?i=py,html,css,cpp,c,bash,java,js,octave)
 
 ### Frameworks & Libraries
 ![](https://skillicons.dev/icons?i=sqlite,htmx,fastapi,django)
