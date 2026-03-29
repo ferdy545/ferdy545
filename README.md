@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/INTERESTED_IN-GAMEDEV-rgb(255,93,0)?style=for-the-badge)
 ![](https://img.shields.io/badge/POKÉMON-SCOLIPEDE-rgb(186,40,94)?style=for-the-badge)
 
-Hello there! My name is Fernando and I'm an undergradute Computer Science student at IME-USP! Currently using GitHub mostly for coursework, but I plan on adding personal experiments at some point :3
+Hello there! My name is Fernando and I'm an undergradute Computer Science student at IME-USP! Currently using GitHub mostly for coursework and academic projects, but I plan on adding personal experiments at some point :3
 
 ## Experience
 More or less sorted by how much I'm comfortable using them ;)
