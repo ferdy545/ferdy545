@@ -42,7 +42,7 @@
 ![](https://img.shields.io/badge/INTERESTED_IN-GAMEDEV-rgb(255,93,0)?style=for-the-badge)
 ![](https://img.shields.io/badge/FAVORITE_POKÉMON-SCOLIPEDE-rgb(186,40,94)?style=for-the-badge)
 
-Hello there! My name is Fernando and I'm an undergraduate Computer Science student at IME-USP! Currently using GitHub mostly for coursework and academic projects, but I plan on adding personal experiments at some point. I'm a language enthusiast and I love everything art-related! I like translating stuff, designing user interfaces and learning more about everything [Computer Science](https://en.wikipedia.org/wiki/Computer_science)!
+Hello there! My name is Fernando and I'm an undergraduate [Computer Science](https://en.wikipedia.org/wiki/Computer_science) student at [IME-USP](https://ime.usp.br)! Currently using GitHub mostly for coursework and academic projects, but I plan on adding personal experiments at some point. I'm a language enthusiast and I love everything art-related! I like translating stuff, designing user interfaces and learning more about [everything CompSci](https://en.wikipedia.org/wiki/Outline_of_computer_science)!
 
 ## Experience
 
