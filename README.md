@@ -24,6 +24,7 @@
 [htmx]: https://skillicons.dev/icons?i=htmx
 [fastapi]: https://skillicons.dev/icons?i=fastapi
 [django]: https://skillicons.dev/icons?i=django
+[tailwind]: https://skillicons.dev/icons?i=tailwind
 
 <!--- ===================================================== --->
 
@@ -46,13 +47,26 @@ Hello there! My name is Fernando and I'm an undergraduate [Computer Science](htt
 
 ## Experience
 
-This is just a casual description of the tech-thingies I've ever used (and whose icon existed at [Skill Icons](https://skillicons.dev/) XD)
+This is just a casual description of the technologies I've ever come into contact with.
 
 | | I am comfortable using: | I have some familiarity with: | I briefly explored: |
 | :---: | :---: | :---: | :---: |
 | Tools & Technologies | ![][windows] ![][linux] ![][vscode] ![][latex] ![][git] | ![][arduino] ![][godot] | ![][blender] |
 | Languages | ![][py] ![][html] ![][css] ![][c] | ![][cpp] ![][bash] ![][java] ![][js] | ![][octave] | 
-| Frameworks & Libraries | — | ![][sqlite] ![][htmx] ![][fastapi] ![][react] | ![][django] |
+| Frameworks & Libraries | — | ![][sqlite] ![][htmx] ![][fastapi] ![][react] ![][tailwind] | ![][django] |
+
+ _Made with [Skill Icons](https://skillicons.dev/)_
+
+<br>
+
+Other stuff:
+
+- Microsoft Office (Word, PowerPoint, Excel, etc.): AKA the "boring stuff".
+- ibisPaintX (Raster Graphics Editor): it's the main program I use to make digital art and manipulate images in general!
+- Inkscape (Vector Graphics Editor): currently familiarizing myself with creating and editing .svg files!
+- BandLab (Digital Audio Workstation): I just like messing around with MIDI instruments. I don't actually know much about music theory! XD
+
+
 
 <!---
 ferdy545/ferdy545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
