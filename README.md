@@ -1,74 +1,58 @@
-<!--- ICONS --->
-
-[windows]: https://skillicons.dev/icons?i=windows
-[linux]: https://skillicons.dev/icons?i=linux
-[vscode]: https://skillicons.dev/icons?i=vscode
-[latex]: https://skillicons.dev/icons?i=latex
-[git]: https://skillicons.dev/icons?i=git
-[godot]: https://skillicons.dev/icons?i=godot
-[arduino]: https://skillicons.dev/icons?i=arduino
-[blender]: https://skillicons.dev/icons?i=blender
-
-[py]: https://skillicons.dev/icons?i=py
-[html]: https://skillicons.dev/icons?i=html
-[css]: https://skillicons.dev/icons?i=css
-[cpp]: https://skillicons.dev/icons?i=cpp
-[c]: https://skillicons.dev/icons?i=c
-[bash]: https://skillicons.dev/icons?i=bash
-[java]: https://skillicons.dev/icons?i=java
-[js]: https://skillicons.dev/icons?i=js
-[octave]: https://skillicons.dev/icons?i=octave
-
-[react]: https://skillicons.dev/icons?i=react
-[sqlite]: https://skillicons.dev/icons?i=sqlite
-[htmx]: https://skillicons.dev/icons?i=htmx
-[fastapi]: https://skillicons.dev/icons?i=fastapi
-[django]: https://skillicons.dev/icons?i=django
-[tailwind]: https://skillicons.dev/icons?i=tailwind
-
-<!--- ===================================================== --->
-
 # `print("Hello, world!")`
-
-<!---
-  A different style of LABEL-MESSAGE badge
-  ![Static Badge](https://img.shields.io/badge/Label-Message-rgb(255,0,0))
---->
-![](https://img.shields.io/badge/NATIVE-PORTUGUÊS-rgb(0,128,0)?style=for-the-badge)
-![](https://img.shields.io/badge/SPEAK-ENGLISH-rgb(0,0,255)?style=for-the-badge)
-![](https://img.shields.io/badge/BASIC-ESPAÑOL-rgb(243,195,37)?style=for-the-badge)
-![](https://img.shields.io/badge/BASIC-日本語-rgb(200,0,0)?style=for-the-badge)
-<br>
-![](https://img.shields.io/badge/I_LIKE-ART_&_DESIGN-rgb(98,71,194)?style=for-the-badge)
-![](https://img.shields.io/badge/INTERESTED_IN-GAMEDEV-rgb(255,93,0)?style=for-the-badge)
-![](https://img.shields.io/badge/FAVORITE_POKÉMON-SCOLIPEDE-rgb(186,40,94)?style=for-the-badge)
 
 Hello there! My name is Fernando and I'm an undergraduate Computer Science student at [IME-USP](https://ime.usp.br)! Currently using GitHub mostly for coursework and academic projects, but I plan on adding personal experiments at some point. I'm a language enthusiast and I love everything art-related! I like translating stuff, designing user interfaces and learning more about [everything CompSci](https://en.wikipedia.org/wiki/Outline_of_computer_science)!
 
-## Experience
+##  Interests
 
-This is just a casual description of the technologies I've ever come into contact with.
+- Web Development
+- Game Development
+- UI/UX Design
+- Data Visualization
+- Machine Learning & Data Science
+- AI Solutions
+- Sound Engineering, Computer Music and Digital Signal Processing (DSP)
 
-| | I am comfortable using: | I have some familiarity with: | I briefly explored: |
-| :---: | :---: | :---: | :---: |
-| Tools & Technologies | ![][windows] ![][linux] ![][vscode] ![][latex] ![][git] | ![][arduino] ![][godot] | ![][blender] |
-| Languages | ![][py] ![][html] ![][css] ![][c] | ![][cpp] ![][bash] ![][java] ![][js] | ![][octave] | 
-| Frameworks & Libraries | — | ![][sqlite] ![][htmx] ![][fastapi] ![][react] ![][tailwind] | ![][django] |
+##  Experience
 
- _Made with [Skill Icons](https://skillicons.dev/)_
+<div align="center">
+  <h3>Tools & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40">
+  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="40">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40">
+  <img src="https://skillicons.dev/icons?i=godot" alt="Godot" width="40">
+</div>
+
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40">
+  <img src="https://skillicons.dev/icons?i=svg" alt="SVG" width="40">
+</div>
+
+<div align="center">
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40">
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40">
+</div>
 
 <br>
-
-Other stuff:
-
-- Microsoft Office (Word, PowerPoint, Excel, etc.)
-- ibisPaintX (Raster Graphics Editor): it's the main program I use to make digital art and manipulate images in general!
-- Inkscape (Vector Graphics Editor): currently familiarizing myself with creating and editing .svg files!
-- BandLab (Digital Audio Workstation): I just like messing around with MIDI instruments. I don't actually know much about music theory! XD
-
-
+<p align="right"><em>Made with <a href="https://skillicons.dev/">Skill Icons</a></em></p>
+<br>
 
 <!---
 ferdy545/ferdy545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
+<!---
+  ![Static Badge](https://img.shields.io/badge/Label-Message-rgb(255,0,0))
+  ![](https://img.shields.io/badge/Label-Message-rgb(255,0,0)?style=for-the-badge)
 --->
